@@ -1,0 +1,19 @@
+{
+  "name": "react-agenda",
+  "version": "1.0.0",
+  "description": "Agenda telefónica creada con react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marisoler/react-agenda.git"
+  },
+  "author": "Marisol <maryer001@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marisoler/react-agenda/issues"
+  },
+  "homepage": "https://github.com/marisoler/react-agenda#readme"
+}
